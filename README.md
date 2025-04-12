@@ -11,4 +11,4 @@ Instruction on how to open a .jar file on Linux machine.
 3. Running a JAR file from the command line
      <p>$ java -jar name-of-app.jar</p>
 
-   ![lunchmenu](https://github.com/user-attachments/assets/84946eac-6f69-4b72-b710-c4360a4de87b)
+  <img src="https://github.com/user-attachments/assets/84946eac-6f69-4b72-b710-c4360a4de87b" alt="lunch Menu" style="width:50%; height:auto;">
